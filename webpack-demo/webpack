@@ -1,0 +1,21 @@
+
+> webpack-demo@1.0.0 dev C:\Users\claire\Desktop\web\grid W\webpack-demo
+> webpack --mode development -w "-" "development"
+
+Hash: 2db4deea51dde8b093f8
+Version: webpack 4.42.1
+Time: 50ms
+Built at: 2020-04-07 10:54:57
+  Asset      Size  Chunks             Chunk Names
+main.js  4.04 KiB    main  [emitted]  main
+Entrypoint main = main.js
+[0] multi - development 40 bytes {main} [built]
+
+ERROR in multi - development
+Module not found: Error: Can't resolve '-' in 'C:\Users\claire\Desktop\web\grid W\webpack-demo'
+ @ multi - development main[0]
+
+ERROR in multi - development
+Module not found: Error: Can't resolve 'development' in 'C:\Users\claire\Desktop\web\grid W\webpack-demo'
+ @ multi - development main[1]
+终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 终止批处理操作吗(Y/N)? 
